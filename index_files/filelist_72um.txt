@@ -1,0 +1,9 @@
+G:\My Drive\my website_20750228\dbchandwebpage\index_files\wrapper_bg.png
+G:\My Drive\my website_20750228\dbchandwebpage\index_files\wrapper_simple_bg.png
+G:\My Drive\my website_20750228\dbchandwebpage\index_files\ebab_mbmcp.png
+G:\My Drive\my website_20750228\dbchandwebpage\index_files\ebab_mbmcp_d.png
+G:\My Drive\my website_20750228\dbchandwebpage\index_files\ebab_mbmcp_c.png
+G:\My Drive\my website_20750228\dbchandwebpage\index_files\mbjsmbmcp.js
+G:\My Drive\my website_20750228\dbchandwebpage\index_files\mbcsmbmcp.css
+G:\My Drive\my website_20750228\dbchandwebpage\index.htm
+G:\My Drive\my website_20750228\dbchandwebpage\index_files\filelist_72um.txt
